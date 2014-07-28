@@ -1,4 +1,4 @@
 Edocx.Client.SDK
 ================
 
-Public Edocx API for .net
+Public Edocx SDK for .net
